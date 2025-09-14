@@ -116,15 +116,6 @@ NPK values dataset for crop recommendation : https://www.kaggle.com/datasets/ath
 | **Enclosure**      | Custom protective case for field deployment  |
 
 
-## 🚀 Features in Development
-
-- 📡 LoRa/Long-range Communication
-- 🌐 Offline Data Logging via SD card
-- 📱 Mobile App Integration
-- 🤖 Crop Disease Prediction using image data
-
----
-
 ## 👥 Team Agrinova
  Debashmita 
  Sayanika
