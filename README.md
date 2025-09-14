@@ -4,11 +4,6 @@
 
 Agrinova is a full-stack, modular smart farming ecosystem that integrates **IoT hardware**, **machine learning models**, and a **responsive web dashboard** to enable precision agriculture. From soil nutrient detection to real-time climate monitoring and ML-based crop recommendations — it's all-in-one.
 
----
-
-![image](https://github.com/user-attachments/assets/edd1c068-ebd2-4a7c-912f-b8b671a755bb)
-
----
 
 PLANTVILLAGE dataset for crop disease detection : https://www.kaggle.com/datasets/mohitsingh1804/plantvillage
 
