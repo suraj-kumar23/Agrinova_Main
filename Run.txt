@@ -1,0 +1,15 @@
+cd "D:\Agrinove Main\Backend"
+npm start
+
+npm install
+
+
+Server is live at http://localhost:8000
+✅ MongoDB connected successfully 🟢
+
+
+
+cd "D:\Agrinove Main\Frontend"
+npm run dev
+
+npm install
