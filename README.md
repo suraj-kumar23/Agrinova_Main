@@ -115,15 +115,6 @@ NPK values dataset for crop recommendation : https://www.kaggle.com/datasets/ath
 | **Connectors**     | Screw terminals, Dupont connectors            |
 | **Enclosure**      | Custom protective case for field deployment  |
 
----
-
-## 📷 Screenshots & Diagrams
-
-
-![image](https://github.com/user-attachments/assets/99b52b1d-ec06-43f1-a2b7-9a6d1b2e8f33)
-
-
----
 
 ## 🚀 Features in Development
 
@@ -140,12 +131,4 @@ NPK values dataset for crop recommendation : https://www.kaggle.com/datasets/ath
  Suraj
  Sayantan
  Debarghya
- Sh
-
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. Feel free to use and build upon it with proper attribution to **Team Agrinova**.
-
+ 
